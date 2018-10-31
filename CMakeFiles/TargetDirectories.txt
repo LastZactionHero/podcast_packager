@@ -1,3 +1,0 @@
-/Users/zach/development/podcast_packager/CMakeFiles/rebuild_cache.dir
-/Users/zach/development/podcast_packager/CMakeFiles/edit_cache.dir
-/Users/zach/development/podcast_packager/CMakeFiles/FeedParser.dir
