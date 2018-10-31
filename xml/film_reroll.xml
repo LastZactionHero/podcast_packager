@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>The Film Reroll</title>
+	<atom:link href="https://www.filmreroll.com/?feed=podcast" rel="self" type="application/rss+xml" />
+	<link>https://www.filmreroll.com</link>
+	<description>Playing through your favorite movies like RPG&#8217;s and totally ruining them</description>
+	<lastBuildDate>Wed, 24 Oct 2018 08:18:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://www.filmreroll.com/wp-content/uploads/2015/12/cropped-FilmRerollSm-32x32.jpg</url>
+	<title>The Film Reroll</title>
+	<link>https://www.filmreroll.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="simple" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>We take famous movies and play through them as if they were a role playing game. Instead of all those pesky writers carefully crafting a plot, we let the dice decide and go from there. Inevitably it all goes completely off the rails.&lt;br /&gt;
+&lt;br /&gt;
+With Paulo Quiros, Jocelyn Vammer, Jon Miller and Pitr Strait.</itunes:summary>
+	<itunes:author>Reroll Radio</itunes:author>
+	<itunes:explicit>yes</itunes:explicit>
+	<itunes:image href="http://www.filmreroll.com/wp-content/uploads/powerpress/FilmReroll.jpg" />
+	<itunes:owner>
+		<itunes:name>Reroll Radio</itunes:name>
+		<itunes:email>filmreroll@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>filmreroll@gmail.com (Reroll Radio)</managingEditor>
+	<itunes:subtitle>Playing through your favorite movies like RPG&#039;s and totally ruining them</itunes:subtitle>
+	<image>
+		<title>The Film Reroll</title>
+		<url>http://www.filmreroll.com/wp-content/uploads/powerpress/FilmReroll.jpg</url>
+		<link>https://www.filmreroll.com</link>
+	</image>
+	<itunes:category text="TV &amp; Film">
+	</itunes:category>
+	<itunes:category text="Games &amp; Hobbies">
+		<itunes:category text="Other Games"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Comedy">
+	</itunes:category>
+	<rawvoice:subscribe feed="https://www.filmreroll.com/?feed=podcast" itunes="https://itunes.apple.com/us/podcast/the-film-reroll/id1064775021"></rawvoice:subscribe>
+	<item>
+		<title>Ep 46: Friday the 13th: the Final Chapter (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=220</link>
+		<pubDate>Wed, 24 Oct 2018 08:18:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=220</guid>
+		<comments>https://www.filmreroll.com/?p=220#respond</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=220</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through the fourth Friday the 13th movie, but I didn’t tell the players they were in a Friday the 13th movie. Insert evil laugh here. Pitr Strait – Jimmy Joz Vammer – Sara Carolyn Faye Kramer – Samantha Andy Hoover – Paul Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play through the fourth Friday the 13th movie, but I didn&#8217;t tell the players they were in a Friday the 13th movie. Insert evil laugh here.</p>
+<p>Pitr Strait – Jimmy</p>
+<p>Joz Vammer – Sara</p>
+<p>Carolyn Faye Kramer – Samantha</p>
+<p>Andy Hoover – Paul</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/519071754-pauloquiros-film-reroll-ep-46-friday-the-13th-the-final-chapter-part-1.mp3" length="157726112" type="audio/mpeg" />
+		<itunes:subtitle>We play through the fourth Friday the 13th movie, but I didn’t tell the players they were in a Friday the 13th movie. Insert evil laugh here. Pitr Strait – Jimmy Joz Vammer – Sara Carolyn Faye Kramer – Samantha Andy Hoover – Paul Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play through the fourth Friday the 13th movie, but I didn’t tell the players they were in a Friday the 13th movie. Insert evil laugh here. Pitr Strait – Jimmy Joz Vammer – Sara Carolyn Faye Kramer – Samantha Andy Hoover – Paul Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:49:32</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 45: Jurassic Park (Part 3)</title>
+		<link>https://www.filmreroll.com/?p=217</link>
+		<pubDate>Tue, 09 Oct 2018 23:00:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=217</guid>
+		<comments>https://www.filmreroll.com/?p=217#respond</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=217</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We finish Jurassic Park! Joz teaches swamp-walking! Pitr slaps a herbivore on the tush! Jonathan sacrifices a lawyer! Andy donkey kong jumps over a dinosaur! Scott shouts at raptors about math! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian Malcolm Pitr Strait – Robert Muldoon Andy Hoover – Tim … &lt;a href=&quot;https://www.filmreroll.com/?p=217&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Ep 45: Jurassic Park (Part 3)&lt;/span&gt;&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>We finish Jurassic Park! Joz teaches swamp-walking! Pitr slaps a herbivore on the tush! Jonathan sacrifices a lawyer!  Andy donkey kong jumps over a dinosaur! Scott shouts at raptors about math!</p>
+<p>Jonathan West – Alan Grant</p>
+<p>Joz Vammer – Ellie Sattler</p>
+<p>Scott Aiello – Ian Malcolm</p>
+<p>Pitr Strait – Robert Muldoon</p>
+<p>Andy Hoover – Tim &#038; Lex Murphy</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/512021733-pauloquiros-film-reroll-ep-45-jurassic-park-part-3.mp3" length="214738592" type="audio/mpeg" />
+		<itunes:subtitle>We finish Jurassic Park! Joz teaches swamp-walking! Pitr slaps a herbivore on the tush! Jonathan sacrifices a lawyer! Andy donkey kong jumps over a dinosaur! Scott shouts at raptors about math! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scot...</itunes:subtitle>
+		<itunes:summary>We finish Jurassic Park! Joz teaches swamp-walking! Pitr slaps a herbivore on the tush! Jonathan sacrifices a lawyer! Andy donkey kong jumps over a dinosaur! Scott shouts at raptors about math! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian Malcolm Pitr Strait – Robert Muldoon Andy Hoover – Tim … Continue reading Ep 45: Jurassic Park (Part 3)</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:29:07</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 44: Jurassic Park (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=215</link>
+		<pubDate>Wed, 26 Sep 2018 06:38:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=215</guid>
+		<comments>https://www.filmreroll.com/?p=215#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=215</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We’re back with more Jurassic Park! Jonathan climbs a fence! Andy stands on a grate! Scott sends a jeep down the five-hole! Joz tries to bite a dinosaur! Pitr goes for a stroll! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian Malcolm Pitr Strait – Donald Gennaro Andy Hoover … &lt;a href=&quot;https://www.filmreroll.com/?p=215&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Ep 44: Jurassic Park (Part 2)&lt;/span&gt;&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>We&#8217;re back with more Jurassic Park! Jonathan climbs a fence! Andy stands on a grate! Scott sends a jeep down the five-hole! Joz tries to bite a dinosaur! Pitr goes for a stroll!</p>
+<p>Jonathan West – Alan Grant</p>
+<p>Joz Vammer – Ellie Sattler</p>
+<p>Scott Aiello – Ian Malcolm</p>
+<p>Pitr Strait – Donald Gennaro</p>
+<p>Andy Hoover – Tim &#038; Lex Murphy</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/505246032-pauloquiros-film-reroll-ep-44-jurassic-park-part-2.mp3" length="273295328" type="audio/mpeg" />
+		<itunes:subtitle>We’re back with more Jurassic Park! Jonathan climbs a fence! Andy stands on a grate! Scott sends a jeep down the five-hole! Joz tries to bite a dinosaur! Pitr goes for a stroll! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian M...</itunes:subtitle>
+		<itunes:summary>We’re back with more Jurassic Park! Jonathan climbs a fence! Andy stands on a grate! Scott sends a jeep down the five-hole! Joz tries to bite a dinosaur! Pitr goes for a stroll! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian Malcolm Pitr Strait – Donald Gennaro Andy Hoover … Continue reading Ep 44: Jurassic Park (Part 2)</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>3:09:47</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 43: Jurassic Park (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=212</link>
+		<pubDate>Tue, 11 Sep 2018 22:41:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=212</guid>
+		<comments>https://www.filmreroll.com/?p=212#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=212</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Andy talks to himself! Pitr falls in a river! Scott bribes a helicopter pilot! Jonathan slaps a child! Joz threatens Samuel L Jackson with scissors! Welcome to Jurassic Park! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian Malcolm Pitr Strait – Donald Gennaro Andy Hoover – Tim &amp; Lex … &lt;a href=&quot;https://www.filmreroll.com/?p=212&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Ep 43: Jurassic Park (Part 1)&lt;/span&gt;&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>Andy talks to himself! Pitr falls in a river! Scott bribes a helicopter pilot! Jonathan slaps a child! Joz threatens Samuel L Jackson with scissors! Welcome to Jurassic Park!</p>
+<p>Jonathan West – Alan Grant</p>
+<p>Joz Vammer – Ellie Sattler</p>
+<p>Scott Aiello – Ian Malcolm</p>
+<p>Pitr Strait – Donald Gennaro</p>
+<p>Andy Hoover – Tim &#038; Lex Murphy</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/498603819-pauloquiros-film-reroll-ep-42-jurassic-park-part-1.mp3" length="225907232" type="audio/mpeg" />
+		<itunes:subtitle>Andy talks to himself! Pitr falls in a river! Scott bribes a helicopter pilot! Jonathan slaps a child! Joz threatens Samuel L Jackson with scissors! Welcome to Jurassic Park! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian Malc...</itunes:subtitle>
+		<itunes:summary>Andy talks to himself! Pitr falls in a river! Scott bribes a helicopter pilot! Jonathan slaps a child! Joz threatens Samuel L Jackson with scissors! Welcome to Jurassic Park! Jonathan West – Alan Grant Joz Vammer – Ellie Sattler Scott Aiello – Ian Malcolm Pitr Strait – Donald Gennaro Andy Hoover – Tim &amp; Lex … Continue reading Ep 43: Jurassic Park (Part 1)</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:36:53</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 42: Rogue One (Part 5)</title>
+		<link>https://www.filmreroll.com/?p=209</link>
+		<pubDate>Tue, 28 Aug 2018 22:36:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=209</guid>
+		<comments>https://www.filmreroll.com/?p=209#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=209</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We finish Rogue One! Pitr sets off fireworks! Joz plays dead! Scott becomes captain of the tiramisu! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We finish Rogue One! Pitr sets off fireworks! Joz plays dead! Scott becomes captain of the tiramisu!</p>
+<p>Joz Vammer – Jyn Erso</p>
+<p>Scott Aiello – Cassian Andor</p>
+<p>Pitr Strait – K-2SO</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/492016029-pauloquiros-film-reroll-ep-42-rogue-one-part-5.mp3" length="187019552" type="audio/mpeg" />
+		<itunes:subtitle>We finish Rogue One! Pitr sets off fireworks! Joz plays dead! Scott becomes captain of the tiramisu! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We finish Rogue One! Pitr sets off fireworks! Joz plays dead! Scott becomes captain of the tiramisu! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:35:51</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 41: Rogue One (Part 4)</title>
+		<link>https://www.filmreroll.com/?p=205</link>
+		<pubDate>Thu, 09 Aug 2018 23:19:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=205</guid>
+		<comments>https://www.filmreroll.com/?p=205#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=205</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We’re back to Rogue One! Scott makes hand gestures! Pitr gets footie slippers! Joz looks for a bar! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We&#8217;re back to Rogue One! Scott makes hand gestures! Pitr gets footie slippers! Joz looks for a bar!</p>
+<p>Joz Vammer – Jyn Erso</p>
+<p>Scott Aiello – Cassian Andor</p>
+<p>Pitr Strait – K-2SO</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/483467175-pauloquiros-film-rerollep-41-rogue-one-part-4.mp3" length="186245024" type="audio/mpeg" />
+		<itunes:subtitle>We’re back to Rogue One! Scott makes hand gestures! Pitr gets footie slippers! Joz looks for a bar! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We’re back to Rogue One! Scott makes hand gestures! Pitr gets footie slippers! Joz looks for a bar! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:09:20</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 40: From Dusk Till Dawn (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=202</link>
+		<pubDate>Fri, 13 Jul 2018 21:36:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=202</guid>
+		<comments>https://www.filmreroll.com/?p=202#respond</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=202</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We conclude From Dusk Till Dawn! Jon flips a table! Scott starts taking hearts! Pitr succeeds an acting roll! Joz becomes Jean-Claude Van Damme! Tim refuses to die! Jon Miller – Seth Gecko Joz Vammer – Richie Gecko Scott Aiello – Jacob Fuller Pitr Strait – Katherine Fuller Tim Nolan – Scott Fuller Paulo Quiros … &lt;a href=&quot;https://www.filmreroll.com/?p=202&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Ep 40: From Dusk Till Dawn (Part 2)&lt;/span&gt;&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>We conclude From Dusk Till Dawn! Jon flips a table! Scott starts taking hearts! Pitr succeeds an acting roll! Joz becomes Jean-Claude Van Damme! Tim refuses to die!</p>
+<p>Jon Miller – Seth Gecko</p>
+<p>Joz Vammer – Richie Gecko</p>
+<p>Scott Aiello – Jacob Fuller</p>
+<p>Pitr Strait – Katherine Fuller</p>
+<p>Tim Nolan – Scott Fuller</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/471355566-pauloquiros-film-reroll-ep-39-from-dusk-till-dawn-part-2.mp3" length="207949280" type="audio/mpeg" />
+		<itunes:subtitle>We conclude From Dusk Till Dawn! Jon flips a table! Scott starts taking hearts! Pitr succeeds an acting roll! Joz becomes Jean-Claude Van Damme! Tim refuses to die! Jon Miller – Seth Gecko Joz Vammer – Richie Gecko Scott Aiello – Jacob Fuller Pitr Stra...</itunes:subtitle>
+		<itunes:summary>We conclude From Dusk Till Dawn! Jon flips a table! Scott starts taking hearts! Pitr succeeds an acting roll! Joz becomes Jean-Claude Van Damme! Tim refuses to die! Jon Miller – Seth Gecko Joz Vammer – Richie Gecko Scott Aiello – Jacob Fuller Pitr Strait – Katherine Fuller Tim Nolan – Scott Fuller Paulo Quiros … Continue reading Ep 40: From Dusk Till Dawn (Part 2)</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:24:25</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 39: From Dusk Till Dawn (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=199</link>
+		<pubDate>Sat, 23 Jun 2018 17:37:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=199</guid>
+		<comments>https://www.filmreroll.com/?p=199#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=199</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play From Dusk Till Dawn! Jon flips a table! Joz gets stunned! Tim laughs on mic! Pitr orders tacos! Scott punches Cheech Marin! Jon Miller – Seth Gecko Joz Vammer – Richie Gecko Scott Aiello – Jacob Fuller Pitr Strait – Katherine Fuller Tim Nolan – Scott Fuller Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play From Dusk Till Dawn! Jon flips a table! Joz gets stunned! Tim laughs on mic! Pitr orders tacos! Scott punches Cheech Marin!</p>
+<p>Jon Miller – Seth Gecko</p>
+<p>Joz Vammer – Richie Gecko</p>
+<p>Scott Aiello – Jacob Fuller</p>
+<p>Pitr Strait – Katherine Fuller</p>
+<p>Tim Nolan – Scott Fuller</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/462356388-pauloquiros-film-reroll-ep-39-from-dusk-till-dawn-part-1.mp3" length="145356512" type="audio/mpeg" />
+		<itunes:subtitle>We play From Dusk Till Dawn! Jon flips a table! Joz gets stunned! Tim laughs on mic! Pitr orders tacos! Scott punches Cheech Marin! Jon Miller – Seth Gecko Joz Vammer – Richie Gecko Scott Aiello – Jacob Fuller Pitr Strait – Katherine Fuller Tim Nolan –...</itunes:subtitle>
+		<itunes:summary>We play From Dusk Till Dawn! Jon flips a table! Joz gets stunned! Tim laughs on mic! Pitr orders tacos! Scott punches Cheech Marin! Jon Miller – Seth Gecko Joz Vammer – Richie Gecko Scott Aiello – Jacob Fuller Pitr Strait – Katherine Fuller Tim Nolan – Scott Fuller Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:40:57</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 38: Rogue One (Part 3)</title>
+		<link>https://www.filmreroll.com/?p=187</link>
+		<pubDate>Sat, 26 May 2018 03:09:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=187</guid>
+		<comments>https://www.filmreroll.com/?p=187#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=187</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Rogue One continues! Scott runs into a wall! Joz gives hair as a present! Pitr punches the ground! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>Rogue One continues! Scott runs into a wall! Joz gives hair as a present! Pitr punches the ground!</p>
+<p>Joz Vammer – Jyn Erso</p>
+<p>Scott Aiello – Cassian Andor</p>
+<p>Pitr Strait – K-2SO</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/449276460-pauloquiros-film-reroll-ep-38-rogue-one-part-3.mp3" length="152712106" type="audio/mpeg" />
+		<itunes:subtitle>Rogue One continues! Scott runs into a wall! Joz gives hair as a present! Pitr punches the ground! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>Rogue One continues! Scott runs into a wall! Joz gives hair as a present! Pitr punches the ground! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:46:03</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 37: Rogue One (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=175</link>
+		<pubDate>Mon, 30 Apr 2018 23:12:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=175</guid>
+		<comments>https://www.filmreroll.com/?p=175#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=175</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We’re back with Rogue Two! Pitr talks to himself! Joz trusts nobody! Scott shoots a priest! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We&#8217;re back with Rogue Two! Pitr talks to himself! Joz trusts nobody! Scott shoots a priest!</p>
+<p>Joz Vammer – Jyn Erso</p>
+<p>Scott Aiello – Cassian Andor</p>
+<p>Pitr Strait – K-2SO</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/437515158-pauloquiros-film-reroll-ep-37-rogue-one-part-2.mp3" length="163406690" type="audio/mpeg" />
+		<itunes:subtitle>We’re back with Rogue Two! Pitr talks to himself! Joz trusts nobody! Scott shoots a priest! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We’re back with Rogue Two! Pitr talks to himself! Joz trusts nobody! Scott shoots a priest! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:53:29</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 36: Rogue One (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=172</link>
+		<pubDate>Thu, 29 Mar 2018 21:01:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=172</guid>
+		<comments>https://www.filmreroll.com/?p=172#respond</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=172</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through Rogue One, a Star Wars Story! Scott tortures a prisoner! Pitr successfully does an accent! Joz runs a stick along a wall! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play through Rogue One, a Star Wars Story! Scott tortures a prisoner! Pitr successfully does an accent! Joz runs a stick along a wall!</p>
+<p>Joz Vammer – Jyn Erso</p>
+<p>Scott Aiello – Cassian Andor</p>
+<p>Pitr Strait – K-2SO</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/422014746-pauloquiros-film-reroll-ep-36-rogue-one-part-1.mp3" length="170965014" type="audio/mpeg" />
+		<itunes:subtitle>We play through Rogue One, a Star Wars Story! Scott tortures a prisoner! Pitr successfully does an accent! Joz runs a stick along a wall! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play through Rogue One, a Star Wars Story! Scott tortures a prisoner! Pitr successfully does an accent! Joz runs a stick along a wall! Joz Vammer – Jyn Erso Scott Aiello – Cassian Andor Pitr Strait – K-2SO Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:58:44</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 35: Home Alone (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=169</link>
+		<pubDate>Sat, 10 Feb 2018 21:21:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=169</guid>
+		<comments>https://www.filmreroll.com/?p=169#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=169</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We finish Home Alone! Joz runs in the snow! Paulo goes butt-first out a window! Pitr comes upon the edge of madness! Joz Vammer – Kevin Pitr Strait – Harry Paulo Quiros – Marv Jon Miller – DM</description>
+		<content:encoded><![CDATA[<p>We finish Home Alone! Joz runs in the snow! Paulo goes butt-first out a window! Pitr comes upon the edge of madness!</p>
+<p>Joz Vammer – Kevin</p>
+<p>Pitr Strait – Harry</p>
+<p>Paulo Quiros – Marv</p>
+<p>Jon Miller – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/397518051-pauloquiros-film-reroll-ep-35-home-alone-part-2.mp3" length="228209584" type="audio/mpeg" />
+		<itunes:subtitle>We finish Home Alone! Joz runs in the snow! Paulo goes butt-first out a window! Pitr comes upon the edge of madness! Joz Vammer – Kevin Pitr Strait – Harry Paulo Quiros – Marv Jon Miller – DM</itunes:subtitle>
+		<itunes:summary>We finish Home Alone! Joz runs in the snow! Paulo goes butt-first out a window! Pitr comes upon the edge of madness! Joz Vammer – Kevin Pitr Strait – Harry Paulo Quiros – Marv Jon Miller – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:38:29</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 34: Home Alone (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=166</link>
+		<pubDate>Thu, 18 Jan 2018 22:21:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=166</guid>
+		<comments>https://www.filmreroll.com/?p=166#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=166</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Keep the change, you filthy animal. Joz Vammer – Kevin Pitr Strait – Harry Paulo Quiros – Marv Jon Miller – DM</description>
+		<content:encoded><![CDATA[<p>Keep the change, you filthy animal.</p>
+<p>Joz Vammer – Kevin</p>
+<p>Pitr Strait – Harry</p>
+<p>Paulo Quiros – Marv</p>
+<p>Jon Miller – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/385684694-pauloquiros-film-reroll-ep-34-home-alone-part-1.mp3" length="205977194" type="audio/mpeg" />
+		<itunes:subtitle>Keep the change, you filthy animal. Joz Vammer – Kevin Pitr Strait – Harry Paulo Quiros – Marv Jon Miller – DM</itunes:subtitle>
+		<itunes:summary>Keep the change, you filthy animal. Joz Vammer – Kevin Pitr Strait – Harry Paulo Quiros – Marv Jon Miller – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:23:02</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 33: Halloween II (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=163</link>
+		<pubDate>Thu, 21 Dec 2017 16:25:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=163</guid>
+		<comments>https://www.filmreroll.com/?p=163#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=163</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We conclude the Empire Strikes Back of Halloween movies. Joz kidnaps her father. Scott goes for a swim. Andy shoots a ghost. Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We conclude the Empire Strikes Back of Halloween movies. Joz kidnaps her father. Scott goes for a swim. Andy shoots a ghost.</p>
+<p>Joz Vammer – Laurie Strode</p>
+<p>Scott Aiello – Sam Loomis</p>
+<p>Andy Hoover – Danny Hodges</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/372639491-pauloquiros-film-reroll-ep-33-halloween-ii-part-2.mp3" length="186409060" type="audio/mpeg" />
+		<itunes:subtitle>We conclude the Empire Strikes Back of Halloween movies. Joz kidnaps her father. Scott goes for a swim. Andy shoots a ghost. Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We conclude the Empire Strikes Back of Halloween movies. Joz kidnaps her father. Scott goes for a swim. Andy shoots a ghost. Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:09:27</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 32: Halloween II (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=160</link>
+		<pubDate>Wed, 01 Nov 2017 02:23:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=160</guid>
+		<comments>https://www.filmreroll.com/?p=160#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=160</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Halloween returns one year later with new ghastly horrors and a whole lot of wholesome goofiness. Spooooky. Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>Halloween returns one year later with new ghastly horrors and a whole lot of wholesome goofiness. Spooooky.</p>
+<p>Joz Vammer – Laurie Strode</p>
+<p>Scott Aiello – Sam Loomis</p>
+<p>Andy Hoover – Danny Hodges</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/349553034-pauloquiros-film-reroll-ep-32-halloween-ii-part-1.mp3" length="115780610" type="audio/mpeg" />
+		<itunes:subtitle>Halloween returns one year later with new ghastly horrors and a whole lot of wholesome goofiness. Spooooky. Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>Halloween returns one year later with new ghastly horrors and a whole lot of wholesome goofiness. Spooooky. Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:20:24</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 31: Bill and Ted&#8217;s Excellent Adventure (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=157</link>
+		<pubDate>Sat, 21 Oct 2017 03:46:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=157</guid>
+		<comments>https://www.filmreroll.com/?p=157#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=157</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Bill and Ted’s Excellent Adventure is still totally going, dude! It’s totally amazing! And also kinda bogus at times. But mostly amazing! Jocelyn Vammer – Bill S. Preston Esq. Scott Aiello – Ted “Theodore” Logan Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>Bill and Ted’s Excellent Adventure is still totally going, dude! It&#8217;s totally amazing! And also kinda bogus at times. But mostly amazing!</p>
+<p>Jocelyn Vammer – Bill S. Preston Esq.</p>
+<p>Scott Aiello – Ted “Theodore” Logan</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/347882602-pauloquiros-film-reroll-ep-31-bill-and-teds-excelent-adventure-part-2.mp3" length="191156644" type="audio/mpeg" />
+		<itunes:subtitle>Bill and Ted’s Excellent Adventure is still totally going, dude! It’s totally amazing! And also kinda bogus at times. But mostly amazing! Jocelyn Vammer – Bill S. Preston Esq. Scott Aiello – Ted “Theodore” Logan Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>Bill and Ted’s Excellent Adventure is still totally going, dude! It’s totally amazing! And also kinda bogus at times. But mostly amazing! Jocelyn Vammer – Bill S. Preston Esq. Scott Aiello – Ted “Theodore” Logan Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:12:45</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 30: Bill and Ted&#8217;s Excellent Adventure (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=153</link>
+		<pubDate>Thu, 28 Sep 2017 23:20:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=153</guid>
+		<comments>https://www.filmreroll.com/?p=153#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=153</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We totally play Bill and Ted’s Excellent Adventure! Scott is most triumphant! Joz is totally bodacious! Jocelyn Vammer – Bill S. Preston Esq. Scott Aiello – Ted “Theodore” Logan Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We totally play Bill and Ted&#8217;s Excellent Adventure! Scott is most triumphant! Joz is totally bodacious!</p>
+<p>Jocelyn Vammer &#8211; Bill S. Preston Esq.</p>
+<p>Scott Aiello &#8211; Ted &#8220;Theodore&#8221; Logan</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/344495922-pauloquiros-film-reroll-ep-30-bill-and-teds-excellent-adventure.mp3" length="210168518" type="audio/mpeg" />
+		<itunes:subtitle>We totally play Bill and Ted’s Excellent Adventure! Scott is most triumphant! Joz is totally bodacious! Jocelyn Vammer – Bill S. Preston Esq. Scott Aiello – Ted “Theodore” Logan Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We totally play Bill and Ted’s Excellent Adventure! Scott is most triumphant! Joz is totally bodacious! Jocelyn Vammer – Bill S. Preston Esq. Scott Aiello – Ted “Theodore” Logan Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:25:57</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 29: E.T. the Extra-Terrestrial (Part 4)</title>
+		<link>https://www.filmreroll.com/?p=149</link>
+		<pubDate>Sat, 02 Sep 2017 07:47:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=149</guid>
+		<comments>https://www.filmreroll.com/?p=149#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=149</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>E.T. comes to its thrilling conclusion! Joz presses buttons! Jon slap-chops his enemies! Andy loses an arm! Pitr commits some war crimes! Jon Miller – E.T. Jocelyn Vammer – Jake Rauhe Andy Hoover – Barry Pitr Strait – Bery Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>E.T. comes to its thrilling conclusion! Joz presses buttons! Jon slap-chops his enemies! Andy loses an arm! Pitr commits some war crimes!</p>
+<p>Jon Miller – E.T.</p>
+<p>Jocelyn Vammer – Jake Rauhe</p>
+<p>Andy Hoover – Barry</p>
+<p>Pitr Strait – Bery</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/340567744-pauloquiros-film-reroll-ep-29-et-the-extra-terrestrial-part-4.mp3" length="143516662" type="audio/mpeg" />
+		<itunes:subtitle>E.T. comes to its thrilling conclusion! Joz presses buttons! Jon slap-chops his enemies! Andy loses an arm! Pitr commits some war crimes! Jon Miller – E.T. Jocelyn Vammer – Jake Rauhe Andy Hoover – Barry Pitr Strait – Bery Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>E.T. comes to its thrilling conclusion! Joz presses buttons! Jon slap-chops his enemies! Andy loses an arm! Pitr commits some war crimes! Jon Miller – E.T. Jocelyn Vammer – Jake Rauhe Andy Hoover – Barry Pitr Strait – Bery Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:39:19</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 28: E.T. the Extra-Terrestrial (Part 3)</title>
+		<link>https://www.filmreroll.com/?p=145</link>
+		<pubDate>Fri, 28 Jul 2017 10:44:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=145</guid>
+		<comments>https://www.filmreroll.com/?p=145#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=145</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We’re back with more E.T. and his adventures on Earth! Pitr does an interpretive dance! Andy procures an orangutan! Joz learns what disarming means! Jon subjugates the mind of the leader of the free world! Jon Miller – E.T. Andy Hoover – Dan Edwin Pitr Strait – Ana Kopas Jocelyn Vammer – Jake Rauhe Paulo … &lt;a href=&quot;https://www.filmreroll.com/?p=145&quot; class=&quot;more-link&quot;&gt;Continue reading &lt;span class=&quot;screen-reader-text&quot;&gt;Ep 28: E.T. the Extra-Terrestrial (Part 3)&lt;/span&gt;&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>We&#8217;re back with more E.T. and his adventures on Earth! Pitr does an interpretive dance! Andy procures an orangutan! Joz learns what disarming means! Jon subjugates the mind of the leader of the free world!</p>
+<p>Jon Miller – E.T.</p>
+<p>Andy Hoover – Dan Edwin</p>
+<p>Pitr Strait – Ana Kopas</p>
+<p>Jocelyn Vammer – Jake Rauhe</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/335211550-pauloquiros-film-reroll-ep-28-et-the-extra-terrestrial-part-3.mp3" length="122851137" type="audio/mpeg" />
+		<itunes:subtitle>We’re back with more E.T. and his adventures on Earth! Pitr does an interpretive dance! Andy procures an orangutan! Joz learns what disarming means! Jon subjugates the mind of the leader of the free world! Jon Miller – E.T.</itunes:subtitle>
+		<itunes:summary>We’re back with more E.T. and his adventures on Earth! Pitr does an interpretive dance! Andy procures an orangutan! Joz learns what disarming means! Jon subjugates the mind of the leader of the free world! Jon Miller – E.T. Andy Hoover – Dan Edwin Pitr Strait – Ana Kopas Jocelyn Vammer – Jake Rauhe Paulo … Continue reading Ep 28: E.T. the Extra-Terrestrial (Part 3)</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:24:58</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 27: Alien (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=139</link>
+		<pubDate>Wed, 14 Jun 2017 10:03:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=139</guid>
+		<comments>https://www.filmreroll.com/?p=139#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=139</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Another episode of Alien! Jon takes two naps! Pitr sees a ghost! Paulo embraces his mortality! Joz kicks with boots! Jocelyn Vammer – Ripley Paulo Quiros – Brett Jon Miller – Kane Pitr Strait – Parker Andy Hoover – DM</description>
+		<content:encoded><![CDATA[<p>Another episode of Alien! Jon takes two naps! Pitr sees a ghost! Paulo embraces his mortality! Joz kicks with boots!</p>
+<p>Jocelyn Vammer – Ripley</p>
+<p>Paulo Quiros – Brett</p>
+<p>Jon Miller – Kane</p>
+<p>Pitr Strait – Parker</p>
+<p>Andy Hoover – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/327994278-pauloquiros-film-reroll-ep-27-alien-part-2.mp3" length="165000095" type="audio/mpeg" />
+		<itunes:subtitle>Another episode of Alien! Jon takes two naps! Pitr sees a ghost! Paulo embraces his mortality! Joz kicks with boots! Jocelyn Vammer – Ripley Paulo Quiros – Brett Jon Miller – Kane Pitr Strait – Parker Andy Hoover – DM</itunes:subtitle>
+		<itunes:summary>Another episode of Alien! Jon takes two naps! Pitr sees a ghost! Paulo embraces his mortality! Joz kicks with boots! Jocelyn Vammer – Ripley Paulo Quiros – Brett Jon Miller – Kane Pitr Strait – Parker Andy Hoover – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:54:35</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 26: Alien (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=136</link>
+		<pubDate>Tue, 06 Jun 2017 06:34:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=136</guid>
+		<comments>https://www.filmreroll.com/?p=136#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=136</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through Alien. Pitr drinks a beer! Jon barks out commands! Paulo freaks out about cool stuff! Joz drives a spaceship! Jocelyn Vammer – Ripley Paulo Quiros – Dallas Jon Miller – Kane Pitr Strait – Parker Andy Hoover – DM</description>
+		<content:encoded><![CDATA[<p>We play through Alien. Pitr drinks a beer! Jon barks out commands! Paulo freaks out about cool stuff! Joz drives a spaceship!</p>
+<p>Jocelyn Vammer &#8211; Ripley</p>
+<p>Paulo Quiros &#8211; Dallas</p>
+<p>Jon Miller &#8211; Kane</p>
+<p>Pitr Strait &#8211; Parker</p>
+<p>Andy Hoover &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/326462611-pauloquiros-ep-26-alien-part-1.mp3" length="120018865" type="audio/mpeg" />
+		<itunes:subtitle>We play through Alien. Pitr drinks a beer! Jon barks out commands! Paulo freaks out about cool stuff! Joz drives a spaceship! Jocelyn Vammer – Ripley Paulo Quiros – Dallas Jon Miller – Kane Pitr Strait – Parker Andy Hoover – DM</itunes:subtitle>
+		<itunes:summary>We play through Alien. Pitr drinks a beer! Jon barks out commands! Paulo freaks out about cool stuff! Joz drives a spaceship! Jocelyn Vammer – Ripley Paulo Quiros – Dallas Jon Miller – Kane Pitr Strait – Parker Andy Hoover – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:23:20</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 25: E.T. the Extra-Terrestrial (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=132</link>
+		<pubDate>Tue, 16 May 2017 12:44:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=132</guid>
+		<comments>https://www.filmreroll.com/?p=132#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=132</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We continue E.T.! Andy falls off a bike! Joz shouts at the government! Pitr buys weed! Jon blows up a car! Jon Miller – E.T. Andy Hoover – Elliott Pitr Strait – Michael Jocelyn Vammer – Gertie Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We continue E.T.! Andy falls off a bike! Joz shouts at the government! Pitr buys weed! Jon blows up a car!</p>
+<p>Jon Miller – E.T.</p>
+<p>Andy Hoover – Elliott</p>
+<p>Pitr Strait – Michael</p>
+<p>Jocelyn Vammer – Gertie</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/322879812-pauloquiros-film-reroll-ep-25-et-the-extra-terrestrial-part-2.mp3" length="144515518" type="audio/mpeg" />
+		<itunes:subtitle>We continue E.T.! Andy falls off a bike! Joz shouts at the government! Pitr buys weed! Jon blows up a car! Jon Miller – E.T. Andy Hoover – Elliott Pitr Strait – Michael Jocelyn Vammer – Gertie Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We continue E.T.! Andy falls off a bike! Joz shouts at the government! Pitr buys weed! Jon blows up a car! Jon Miller – E.T. Andy Hoover – Elliott Pitr Strait – Michael Jocelyn Vammer – Gertie Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:40:21</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 24: E.T. the Extra-Terrestrial (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=127</link>
+		<pubDate>Fri, 21 Apr 2017 19:13:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=127</guid>
+		<comments>https://www.filmreroll.com/?p=127#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=127</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We ruin E.T.! Jon pets a dog! Andy fetches apples! Pitr steals a bike! Joz is four! Jon Miller – E.T. Andy Hoover – Elliott Pitr Strait – Michael Jocelyn Vammer – Gertie Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We ruin E.T.! Jon pets a dog! Andy fetches apples! Pitr steals a bike! Joz is four!</p>
+<p>Jon Miller &#8211; E.T.</p>
+<p>Andy Hoover &#8211; Elliott</p>
+<p>Pitr Strait &#8211; Michael</p>
+<p>Jocelyn Vammer &#8211; Gertie</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/318840327-pauloquiros-film-reroll-ep-24-et-the-extra-terrestrial-part-1.mp3" length="199550189" type="audio/mpeg" />
+		<itunes:subtitle>We ruin E.T.! Jon pets a dog! Andy fetches apples! Pitr steals a bike! Joz is four! Jon Miller – E.T. Andy Hoover – Elliott Pitr Strait – Michael Jocelyn Vammer – Gertie Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We ruin E.T.! Jon pets a dog! Andy fetches apples! Pitr steals a bike! Joz is four! Jon Miller – E.T. Andy Hoover – Elliott Pitr Strait – Michael Jocelyn Vammer – Gertie Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:18:01</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 23: O Brother, Where Art Thou?</title>
+		<link>https://www.filmreroll.com/?p=124</link>
+		<pubDate>Wed, 29 Mar 2017 00:38:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=124</guid>
+		<comments>https://www.filmreroll.com/?p=124#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=124</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play O Brother, Where Art Thou! Andy is in a tight spot! Joz eats some blueberries! Paulo punches a dog! Andy Hoover – Ulysses Everett McGill Paulo Quiros – Pete Hogwallop Jocelyn Vammer – Delmar O’Donnell Jon Miller – DM</description>
+		<content:encoded><![CDATA[<p>We play O Brother, Where Art Thou! Andy is in a tight spot! Joz eats some blueberries! Paulo punches a dog!</p>
+<p>Andy Hoover &#8211; Ulysses Everett McGill</p>
+<p>Paulo Quiros &#8211; Pete Hogwallop</p>
+<p>Jocelyn Vammer &#8211; Delmar O&#8217;Donnell</p>
+<p>Jon Miller &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/314966551-pauloquiros-ep-23-o-brother-where-art-thou.mp3" length="191018545" type="audio/mpeg" />
+		<itunes:subtitle>We play O Brother, Where Art Thou! Andy is in a tight spot! Joz eats some blueberries! Paulo punches a dog! Andy Hoover – Ulysses Everett McGill Paulo Quiros – Pete Hogwallop Jocelyn Vammer – Delmar O’Donnell Jon Miller – DM</itunes:subtitle>
+		<itunes:summary>We play O Brother, Where Art Thou! Andy is in a tight spot! Joz eats some blueberries! Paulo punches a dog! Andy Hoover – Ulysses Everett McGill Paulo Quiros – Pete Hogwallop Jocelyn Vammer – Delmar O’Donnell Jon Miller – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:12:39</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 22: Homeward Bound: The Incredible Journey (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=121</link>
+		<pubDate>Mon, 06 Mar 2017 09:14:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=121</guid>
+		<comments>https://www.filmreroll.com/?p=121#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=121</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>More Homeward Bound! We meet a friendly bear and have a good time! Scott Aiello – Shadow Joz Vammer – Chance Pitr Strait – Sassy Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>More Homeward Bound! We meet a friendly bear and have a good time!</p>
+<p>Scott Aiello – Shadow</p>
+<p>Joz Vammer – Chance</p>
+<p>Pitr Strait – Sassy</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/310951238-pauloquiros-film-reroll-ep-22-homeward-bound-the-incredible-journey-part-2.mp3" length="192562908" type="audio/mpeg" />
+		<itunes:subtitle>More Homeward Bound! We meet a friendly bear and have a good time! Scott Aiello – Shadow Joz Vammer – Chance Pitr Strait – Sassy Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>More Homeward Bound! We meet a friendly bear and have a good time! Scott Aiello – Shadow Joz Vammer – Chance Pitr Strait – Sassy Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:13:43</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 21: Homeward Bound: The Incredible Journey (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=117</link>
+		<pubDate>Tue, 14 Feb 2017 20:12:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=117</guid>
+		<comments>https://www.filmreroll.com/?p=117#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=117</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play Homeward Bound! Joz makes a furry friend! Pitr climbs on a sheep! Scott tells us all about Don Ameche! Scott Aiello – Shadow Joz Vammer – Chance Pitr Strait – Sassy Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play Homeward Bound! Joz makes a furry friend! Pitr climbs on a sheep! Scott tells us all about Don Ameche!</p>
+<p>Scott Aiello &#8211; Shadow</p>
+<p>Joz Vammer &#8211; Chance</p>
+<p>Pitr Strait &#8211; Sassy</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/307745966-pauloquiros-film-reroll-ep-21-homeward-bound-the-incredible-journey-part-1.mp3" length="174840222" type="audio/mpeg" />
+		<itunes:subtitle>We play Homeward Bound! Joz makes a furry friend! Pitr climbs on a sheep! Scott tells us all about Don Ameche! Scott Aiello – Shadow Joz Vammer – Chance Pitr Strait – Sassy Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play Homeward Bound! Joz makes a furry friend! Pitr climbs on a sheep! Scott tells us all about Don Ameche! Scott Aiello – Shadow Joz Vammer – Chance Pitr Strait – Sassy Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:01:25</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 20: Jumanji</title>
+		<link>https://www.filmreroll.com/?p=113</link>
+		<pubDate>Sun, 22 Jan 2017 03:04:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=113</guid>
+		<comments>https://www.filmreroll.com/?p=113#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=113</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through Jumanji! Andy dodges a swarm of bees! Jon seduces a sleeping child! Pitr drinks a cognac and coffee! Joz punches a butterfly! Pitr Strait – Alan Joz Vammer – Sarah Andy Hoover – Charles Jon Miller – Anabelle Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play through Jumanji! Andy dodges a swarm of bees! Jon seduces a sleeping child! Pitr drinks a cognac and coffee! Joz punches a butterfly!</p>
+<p>Pitr Strait &#8211; Alan</p>
+<p>Joz Vammer &#8211; Sarah</p>
+<p>Andy Hoover &#8211; Charles</p>
+<p>Jon Miller &#8211; Anabelle</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/303911314-pauloquiros-ep-20-jumanji.mp3" length="192664280" type="audio/mpeg" />
+		<itunes:subtitle>We play through Jumanji! Andy dodges a swarm of bees! Jon seduces a sleeping child! Pitr drinks a cognac and coffee! Joz punches a butterfly! Pitr Strait – Alan Joz Vammer – Sarah Andy Hoover – Charles Jon Miller – Anabelle Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play through Jumanji! Andy dodges a swarm of bees! Jon seduces a sleeping child! Pitr drinks a cognac and coffee! Joz punches a butterfly! Pitr Strait – Alan Joz Vammer – Sarah Andy Hoover – Charles Jon Miller – Anabelle Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:13:59</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 19: Stand By Me (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=106</link>
+		<pubDate>Sun, 01 Jan 2017 21:18:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=106</guid>
+		<comments>https://www.filmreroll.com/?p=106#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=106</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We get through Stand By Me! Cursed Crutch! Cursed Crutch! Cursed Crutch! Cursed Crutch! Jon Miller – Gordie Lachance Paulo Quiros – Chris Chambers Pitr Strait – Teddy Duchamp Scott Aiello – Vern Tessio Andy Hoover – DM</description>
+		<content:encoded><![CDATA[<p>We get through Stand By Me! Cursed Crutch! Cursed Crutch! Cursed Crutch! Cursed Crutch!</p>
+<p>Jon Miller – Gordie Lachance</p>
+<p>Paulo Quiros – Chris Chambers</p>
+<p>Pitr Strait – Teddy Duchamp</p>
+<p>Scott Aiello – Vern Tessio</p>
+<p>Andy Hoover – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/300484900-pauloquiros-ep-19-stand-by-me-part-2.mp3" length="160456593" type="audio/mpeg" />
+		<itunes:subtitle>We get through Stand By Me! Cursed Crutch! Cursed Crutch! Cursed Crutch! Cursed Crutch! Jon Miller – Gordie Lachance Paulo Quiros – Chris Chambers Pitr Strait – Teddy Duchamp Scott Aiello – Vern Tessio Andy Hoover – DM</itunes:subtitle>
+		<itunes:summary>We get through Stand By Me! Cursed Crutch! Cursed Crutch! Cursed Crutch! Cursed Crutch! Jon Miller – Gordie Lachance Paulo Quiros – Chris Chambers Pitr Strait – Teddy Duchamp Scott Aiello – Vern Tessio Andy Hoover – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:51:25</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 18: Stand By Me (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=103</link>
+		<pubDate>Mon, 12 Dec 2016 08:14:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=103</guid>
+		<comments>https://www.filmreroll.com/?p=103#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=103</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through Stand By Me! Jon talks about Spider-man! Paulo holds two coffee cups! Scott pukes for 15 seconds! Pitr rolls to keep it in his pants! Jon Miller – Gordie Lachance Paulo Quiros – Chris Chambers Pitr Strait – Teddy Duchamp Scott Aiello – Vern Tessio Andy Hoover – DM</description>
+		<content:encoded><![CDATA[<p>We play through Stand By Me! Jon talks about Spider-man! Paulo holds two coffee cups! Scott pukes for 15 seconds! Pitr rolls to keep it in his pants!</p>
+<p>Jon Miller &#8211; Gordie Lachance</p>
+<p>Paulo Quiros &#8211; Chris Chambers</p>
+<p>Pitr Strait &#8211; Teddy Duchamp</p>
+<p>Scott Aiello &#8211; Vern Tessio</p>
+<p>Andy Hoover &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/297500595-pauloquiros-ep-18-stand-by-me-part-1.mp3" length="183423281" type="audio/mpeg" />
+		<itunes:subtitle>We play through Stand By Me! Jon talks about Spider-man! Paulo holds two coffee cups! Scott pukes for 15 seconds! Pitr rolls to keep it in his pants! Jon Miller – Gordie Lachance Paulo Quiros – Chris Chambers Pitr Strait – Teddy Duchamp Scott Aiello – ...</itunes:subtitle>
+		<itunes:summary>We play through Stand By Me! Jon talks about Spider-man! Paulo holds two coffee cups! Scott pukes for 15 seconds! Pitr rolls to keep it in his pants! Jon Miller – Gordie Lachance Paulo Quiros – Chris Chambers Pitr Strait – Teddy Duchamp Scott Aiello – Vern Tessio Andy Hoover – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:07:22</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 17: Halloween (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=101</link>
+		<pubDate>Tue, 22 Nov 2016 06:27:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=101</guid>
+		<comments>https://www.filmreroll.com/?p=101#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=101</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We finish Halloween! Andy hits a tree! Scott harasses a preacher! Joz helps a man through his grief! Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We finish Halloween! Andy hits a tree! Scott harasses a preacher! Joz helps a man through his grief!</p>
+<p>Joz Vammer – Laurie Strode</p>
+<p>Scott Aiello – Sam Loomis</p>
+<p>Andy Hoover &#8211; Danny Hodges</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/294144970-pauloquiros-ep-17-halloween-part-2.mp3" length="119088633" type="audio/mpeg" />
+		<itunes:subtitle>We finish Halloween! Andy hits a tree! Scott harasses a preacher! Joz helps a man through his grief! Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We finish Halloween! Andy hits a tree! Scott harasses a preacher! Joz helps a man through his grief! Joz Vammer – Laurie Strode Scott Aiello – Sam Loomis Andy Hoover – Danny Hodges Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:22:42</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 16: Halloween (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=97</link>
+		<pubDate>Tue, 01 Nov 2016 03:05:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=97</guid>
+		<comments>https://www.filmreroll.com/?p=97#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=97</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play Halloween on Halloween! Andy gets murdered! Scott can’t stop his British accent from coming out! Joz finds a sword! Joz Vammer – Laurie Strode Andy Hoover – Annie Brackett Scott Aiello – Sam Loomis Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play Halloween on Halloween! Andy gets murdered! Scott can&#8217;t stop his British accent from coming out! Joz finds a sword!</p>
+<p>Joz Vammer &#8211; Laurie Strode</p>
+<p>Andy Hoover &#8211; Annie Brackett</p>
+<p>Scott Aiello &#8211; Sam Loomis</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/290910189-pauloquiros-film-reroll-ep-16-halloween-part-1.mp3" length="149488445" type="audio/mpeg" />
+		<itunes:subtitle>We play Halloween on Halloween! Andy gets murdered! Scott can’t stop his British accent from coming out! Joz finds a sword! Joz Vammer – Laurie Strode Andy Hoover – Annie Brackett Scott Aiello – Sam Loomis Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play Halloween on Halloween! Andy gets murdered! Scott can’t stop his British accent from coming out! Joz finds a sword! Joz Vammer – Laurie Strode Andy Hoover – Annie Brackett Scott Aiello – Sam Loomis Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:43:48</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 15: The Wizard of Oz (Part 4)</title>
+		<link>https://www.filmreroll.com/?p=89</link>
+		<pubDate>Sat, 08 Oct 2016 10:07:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=89</guid>
+		<comments>https://www.filmreroll.com/?p=89#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=89</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Our epic Oz saga comes to a thrilling conclusion! Our cast descends into actual madness! Joz is the worst messiah! Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>Our epic Oz saga comes to a thrilling conclusion! Our cast descends into actual madness! Joz is the worst messiah!</p>
+<p>Jocelyn Vammer – Dorothy</p>
+<p>Jon Miller – Tin Man</p>
+<p>Pitr Strait – Scarecrow</p>
+<p>Andy Hoover – Lion</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/286697012-pauloquiros-ep-15-the-wizard-of-oz-part-4.mp3" length="205251906" type="audio/mpeg" />
+		<itunes:subtitle>Our epic Oz saga comes to a thrilling conclusion! Our cast descends into actual madness! Joz is the worst messiah! Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>Our epic Oz saga comes to a thrilling conclusion! Our cast descends into actual madness! Joz is the worst messiah! Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:22:32</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 14: The Wizard of Oz (Part 3)</title>
+		<link>https://www.filmreroll.com/?p=77</link>
+		<pubDate>Thu, 08 Sep 2016 05:55:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=77</guid>
+		<comments>https://www.filmreroll.com/?p=77#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=77</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>The Wizard of Oz epic continues! Pitr feeds a cat! Andy goes down some stairs! Jon visits a library! Joz rains dragon fire mercilessly upon the armies of Oz. Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>The Wizard of Oz epic continues! Pitr feeds a cat! Andy goes down some stairs! Jon visits a library! Joz rains dragon fire mercilessly upon the armies of Oz.</p>
+<p>Jocelyn Vammer – Dorothy</p>
+<p>Jon Miller – Tin Man</p>
+<p>Pitr Strait – Scarecrow</p>
+<p>Andy Hoover – Lion</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/281917124-pauloquiros-ep-14-the-wizard-of-oz-part-3.mp3" length="151697606" type="audio/mpeg" />
+		<itunes:subtitle>The Wizard of Oz epic continues! Pitr feeds a cat! Andy goes down some stairs! Jon visits a library! Joz rains dragon fire mercilessly upon the armies of Oz. Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo...</itunes:subtitle>
+		<itunes:summary>The Wizard of Oz epic continues! Pitr feeds a cat! Andy goes down some stairs! Jon visits a library! Joz rains dragon fire mercilessly upon the armies of Oz. Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:45:20</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 13: The Wizard of Oz (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=70</link>
+		<pubDate>Fri, 19 Aug 2016 08:38:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=70</guid>
+		<comments>https://www.filmreroll.com/?p=70#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=70</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>An action packed chapter of our ongoing Wizard of Oz saga! Joz kicks some monkeys! Jon sings flight of the Valkyries! Pitr jumps out a window! Andy attempts mind control! Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>An action packed chapter of our ongoing Wizard of Oz saga! Joz kicks some monkeys! Jon sings flight of the Valkyries! Pitr jumps out a window! Andy attempts mind control!</p>
+<p>Jocelyn Vammer – Dorothy</p>
+<p>Jon Miller – Tin Man</p>
+<p>Pitr Strait – Scarecrow</p>
+<p>Andy Hoover – Lion</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/278932889-pauloquiros-film-reroll-ep-13-the-wizard-of-oz-part-2.mp3" length="150162654" type="audio/mpeg" />
+		<itunes:subtitle>An action packed chapter of our ongoing Wizard of Oz saga! Joz kicks some monkeys! Jon sings flight of the Valkyries! Pitr jumps out a window! Andy attempts mind control! Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover...</itunes:subtitle>
+		<itunes:summary>An action packed chapter of our ongoing Wizard of Oz saga! Joz kicks some monkeys! Jon sings flight of the Valkyries! Pitr jumps out a window! Andy attempts mind control! Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:44:16</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 12: The Wizard of Oz (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=64</link>
+		<pubDate>Thu, 28 Jul 2016 04:03:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=64</guid>
+		<comments>https://www.filmreroll.com/?p=64#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=64</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We run through the Wizard of Oz. We stay with the original movie as long as we ever have, before going off the rails farther than we ever had. Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<div class="truncatedAudioInfo__wrapper">
+<div class="truncatedAudioInfo__content">
+<div class="sc-type-small">
+<div>
+<p>We run through the Wizard of Oz. We stay with the original movie as long as we ever have, before going off the rails farther than we ever had.</p>
+<p>Jocelyn Vammer &#8211; Dorothy</p>
+<p>Jon Miller &#8211; Tin Man</p>
+<p>Pitr Strait &#8211; Scarecrow</p>
+<p>Andy Hoover &#8211; Lion</p>
+<p>Paulo Quiros &#8211; DM</p>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/275712817-pauloquiros-ep-12-the-wizard-of-oz-part-1.mp3" length="150248047" type="audio/mpeg" />
+		<itunes:subtitle>We run through the Wizard of Oz. We stay with the original movie as long as we ever have, before going off the rails farther than we ever had. Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We run through the Wizard of Oz. We stay with the original movie as long as we ever have, before going off the rails farther than we ever had. Jocelyn Vammer – Dorothy Jon Miller – Tin Man Pitr Strait – Scarecrow Andy Hoover – Lion Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:44:08</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 11: Thelma &#038; Louise</title>
+		<link>https://www.filmreroll.com/?p=60</link>
+		<pubDate>Fri, 08 Jul 2016 08:34:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=60</guid>
+		<comments>https://www.filmreroll.com/?p=60#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=60</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through Thelma &amp; Louise! Joz ups her standards for violence. Carolyn answers the call of the step line dance. Andy interviews himself. Jocelyn Vammer – Louise Carolyn Faye Kramer – Thelma Andy Hoover – Brad Pitt Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play through Thelma &amp; Louise! Joz ups her standards for violence. Carolyn answers the call of the step line dance. Andy interviews himself.</p>
+<p>Jocelyn Vammer &#8211; Louise</p>
+<p>Carolyn Faye Kramer &#8211; Thelma</p>
+<p>Andy Hoover &#8211; Brad Pitt</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/272712078-pauloquiros-film-reroll-ep-11-thelma-louise.mp3" length="178188696" type="audio/mpeg" />
+		<itunes:subtitle>We play through Thelma &amp; Louise! Joz ups her standards for violence. Carolyn answers the call of the step line dance. Andy interviews himself. Jocelyn Vammer – Louise Carolyn Faye Kramer – Thelma Andy Hoover – Brad Pitt Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play through Thelma &amp; Louise! Joz ups her standards for violence. Carolyn answers the call of the step line dance. Andy interviews himself. Jocelyn Vammer – Louise Carolyn Faye Kramer – Thelma Andy Hoover – Brad Pitt Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>2:03:55</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 10: Jaws (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=49</link>
+		<pubDate>Mon, 06 Jun 2016 07:09:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=49</guid>
+		<comments>https://www.filmreroll.com/?p=49#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=49</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We finish Jaws! At least one character in the movie gets a nice meal. Jon Miller – Brody Pitr Strait – Hooper Andy Hoover – Quint Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<div class="listenDetails__partialInfo">
+<div class="truncatedAudioInfo m-collapsed">
+<div class="truncatedAudioInfo__wrapper">
+<div class="truncatedAudioInfo__content">
+<div class="sc-type-small">
+<div>
+<p>We finish Jaws! At least one character in the movie gets a nice meal.</p>
+<p>Jon Miller – Brody</p>
+<p>Pitr Strait &#8211; Hooper</p>
+<p>Andy Hoover &#8211; Quint</p>
+<p>Paulo Quiros – DM</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/267767470-pauloquiros-film-reroll-ep-10-jaws-part-2.mp3" length="161607866" type="audio/mpeg" />
+		<itunes:subtitle>We finish Jaws! At least one character in the movie gets a nice meal. Jon Miller – Brody Pitr Strait – Hooper Andy Hoover – Quint Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We finish Jaws! At least one character in the movie gets a nice meal. Jon Miller – Brody Pitr Strait – Hooper Andy Hoover – Quint Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:52:13</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 9: Jaws (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=45</link>
+		<pubDate>Tue, 10 May 2016 18:22:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=45</guid>
+		<comments>https://www.filmreroll.com/?p=45#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=45</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through Jaws! Da-dum. Da-dum. Da-dumda-dumdadumdadum! Jon Miller – Brody Pitr Strait – Hooper Andy Hoover – Quint Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play through Jaws! Da-dum. Da-dum. Da-dumda-dumdadumdadum!</p>
+<p>Jon Miller – Brody</p>
+<p>Pitr Strait &#8211; Hooper</p>
+<p>Andy Hoover &#8211; Quint</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/263442559-pauloquiros-film-reroll-ep-9-jaws-part-1.mp3" length="93029196" type="audio/mpeg" />
+		<itunes:subtitle>We play through Jaws! Da-dum. Da-dum. Da-dumda-dumdadumdadum! Jon Miller – Brody Pitr Strait – Hooper Andy Hoover – Quint Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play through Jaws! Da-dum. Da-dum. Da-dumda-dumdadumdadum! Jon Miller – Brody Pitr Strait – Hooper Andy Hoover – Quint Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:04:16</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 8: Speed</title>
+		<link>https://www.filmreroll.com/?p=34</link>
+		<pubDate>Sat, 23 Apr 2016 19:57:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=34</guid>
+		<comments>https://www.filmreroll.com/?p=34#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=34</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>We play through Speed! Pitr saves some lives. Jon goes to the bathroom to wet his shirt. Jocelyn waits for a bus. Pitr Strait – Keanu Reeves Jon Miller – Jeff Daniels Jocelyn Vammer – Sandra Bullock Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>We play through Speed! Pitr saves some lives. Jon goes to the bathroom to wet his shirt. Jocelyn waits for a bus.</p>
+<p>Pitr Strait &#8211; Keanu Reeves</p>
+<p>Jon Miller &#8211; Jeff Daniels</p>
+<p>Jocelyn Vammer &#8211; Sandra Bullock</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/260541240-pauloquiros-film-reroll-ep-8-speed.mp3" length="79644808" type="audio/mpeg" />
+		<itunes:subtitle>We play through Speed! Pitr saves some lives. Jon goes to the bathroom to wet his shirt. Jocelyn waits for a bus. Pitr Strait – Keanu Reeves Jon Miller – Jeff Daniels Jocelyn Vammer – Sandra Bullock Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>We play through Speed! Pitr saves some lives. Jon goes to the bathroom to wet his shirt. Jocelyn waits for a bus. Pitr Strait – Keanu Reeves Jon Miller – Jeff Daniels Jocelyn Vammer – Sandra Bullock Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>52:28</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 7: Frozen (Part 3)</title>
+		<link>https://www.filmreroll.com/?p=31</link>
+		<pubDate>Tue, 29 Mar 2016 00:25:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=31</guid>
+		<comments>https://www.filmreroll.com/?p=31#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=31</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>The Epic Frozen Saga concludes. Joz plays with snowmen! Paulo fast-talks a golem! Pitr sings power of love! Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</description>
+		<content:encoded><![CDATA[<p>The Epic Frozen Saga concludes. Joz plays with snowmen! Paulo fast-talks a golem! Pitr sings power of love!</p>
+<p>Jocelyn Vammer – Anna</p>
+<p>Pitr Strait – Elsa</p>
+<p>Paulo Quiros – Kristoff</p>
+<p>Jon Miller – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/255674858-pauloquiros-film-reroll-ep-7-frozen-part-3.mp3" length="149240054" type="audio/mpeg" />
+		<itunes:subtitle>The Epic Frozen Saga concludes. Joz plays with snowmen! Paulo fast-talks a golem! Pitr sings power of love! Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</itunes:subtitle>
+		<itunes:summary>The Epic Frozen Saga concludes. Joz plays with snowmen! Paulo fast-talks a golem! Pitr sings power of love! Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:43:18</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 6: Frozen (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=27</link>
+		<pubDate>Wed, 09 Mar 2016 21:25:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=27</guid>
+		<comments>https://www.filmreroll.com/?p=27#respond</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=27</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>This week we are still Frozen. Which came first: the lenses or the luge? Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</description>
+		<content:encoded><![CDATA[<p>This week we are still Frozen. Which came first: the lenses or the luge?</p>
+<p>Jocelyn Vammer – Anna</p>
+<p>Pitr Strait – Elsa</p>
+<p>Paulo Quiros – Kristoff</p>
+<p>Jon Miller – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/251066911-pauloquiros-film-reroll-ep-6-frozen-part-2.mp3" length="136702113" type="audio/mpeg" />
+		<itunes:subtitle>This week we are still Frozen. Which came first: the lenses or the luge? Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</itunes:subtitle>
+		<itunes:summary>This week we are still Frozen. Which came first: the lenses or the luge? Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:34:35</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 5: Frozen (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=24</link>
+		<pubDate>Thu, 11 Feb 2016 06:21:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=24</guid>
+		<comments>https://www.filmreroll.com/?p=24#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=24</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>This week we play through Frozen. Do you want to wreck a movie? Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</description>
+		<content:encoded><![CDATA[<p>This week we play through Frozen. Do you want to wreck a movie?</p>
+<p>Jocelyn Vammer &#8211; Anna</p>
+<p>Pitr Strait &#8211; Elsa</p>
+<p>Paulo Quiros &#8211; Kristoff</p>
+<p>Jon Miller &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/246488883-pauloquiros-film-reroll-ep-5-frozen-part-1.mp3" length="137607410" type="audio/mpeg" />
+		<itunes:subtitle>This week we play through Frozen. Do you want to wreck a movie? Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</itunes:subtitle>
+		<itunes:summary>This week we play through Frozen. Do you want to wreck a movie? Jocelyn Vammer – Anna Pitr Strait – Elsa Paulo Quiros – Kristoff Jon Miller – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:32:38</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 4: Labyrinth</title>
+		<link>https://www.filmreroll.com/?p=21</link>
+		<pubDate>Sun, 24 Jan 2016 06:28:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=21</guid>
+		<comments>https://www.filmreroll.com/?p=21#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=21</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>In honor of the passing of David Bowie, we played through Labyrinth. Can you find the thirteen Bowie lyrics hidden throughout the episode? Jocelyn Vammer – Sarah Paulo Quiros – DM  </description>
+		<content:encoded><![CDATA[<p>In honor of the passing of David Bowie, we played through Labyrinth. Can you find the thirteen Bowie lyrics hidden throughout the episode?</p>
+<p>Jocelyn Vammer &#8211; Sarah</p>
+<p>Paulo Quiros &#8211; DM</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/243497242-pauloquiros-film-reroll-ep-4-labyrinth.mp3" length="57219650" type="audio/mpeg" />
+		<itunes:subtitle>In honor of the passing of David Bowie, we played through Labyrinth. Can you find the thirteen Bowie lyrics hidden throughout the episode? Jocelyn Vammer – Sarah Paulo Quiros – DM  </itunes:subtitle>
+		<itunes:summary>In honor of the passing of David Bowie, we played through Labyrinth. Can you find the thirteen Bowie lyrics hidden throughout the episode? Jocelyn Vammer – Sarah Paulo Quiros – DM  </itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>55:13</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 3: Raiders of the Lost Ark (Part 2)</title>
+		<link>https://www.filmreroll.com/?p=18</link>
+		<pubDate>Sat, 09 Jan 2016 02:56:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=18</guid>
+		<comments>https://www.filmreroll.com/?p=18#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=18</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>Raiders of the Lost Ark concludes. It’s gotta be snakes! Jon Miller – Indiana Jones Jocelyn Vammer – Marion Ravenwood Pitr Strait – Sallah Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>Raiders of the Lost Ark concludes. It&#8217;s gotta be snakes!</p>
+<p>Jon Miller – Indiana Jones</p>
+<p>Jocelyn Vammer – Marion Ravenwood</p>
+<p>Pitr Strait – Sallah</p>
+<p>Paulo Quiros – DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/241068527-pauloquiros-film-reroll-ep-3-raiders-of-the-lost-ark-part-2.mp3" length="89928045" type="audio/mpeg" />
+		<itunes:subtitle>Raiders of the Lost Ark concludes. It’s gotta be snakes! Jon Miller – Indiana Jones Jocelyn Vammer – Marion Ravenwood Pitr Strait – Sallah Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>Raiders of the Lost Ark concludes. It’s gotta be snakes! Jon Miller – Indiana Jones Jocelyn Vammer – Marion Ravenwood Pitr Strait – Sallah Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:33:09</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 2: Raiders of the Lost Ark (Part 1)</title>
+		<link>https://www.filmreroll.com/?p=13</link>
+		<pubDate>Mon, 14 Dec 2015 23:47:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=13</guid>
+		<comments>https://www.filmreroll.com/?p=13#respond</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=13</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>This week we take on Raiders of the Lost Ark. Nazis can’t handle us. Jon Miller – Indiana Jones Jocelyn Vammer – Marion Ravenwood Pitr Strait – Sallah Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>This week we take on Raiders of the Lost Ark. Nazis can&#8217;t handle us.</p>
+<p>Jon Miller &#8211; Indiana Jones</p>
+<p>Jocelyn Vammer &#8211; Marion Ravenwood</p>
+<p>Pitr Strait &#8211; Sallah</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/237581044-pauloquiros-film-reroll-ep-1-raiders-of-the-lost-ark-part-1.mp3" length="77059014" type="audio/mpeg" />
+		<itunes:subtitle>This week we take on Raiders of the Lost Ark. Nazis can’t handle us. Jon Miller – Indiana Jones Jocelyn Vammer – Marion Ravenwood Pitr Strait – Sallah Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>This week we take on Raiders of the Lost Ark. Nazis can’t handle us. Jon Miller – Indiana Jones Jocelyn Vammer – Marion Ravenwood Pitr Strait – Sallah Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:15:53</itunes:duration>
+		</item>
+	<item>
+		<title>Ep 1: Back to the Future 2</title>
+		<link>https://www.filmreroll.com/?p=5</link>
+		<pubDate>Fri, 04 Dec 2015 01:26:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.filmreroll.com/?p=5</guid>
+		<comments>https://www.filmreroll.com/?p=5#comments</comments>
+		<wfw:commentRss>https://www.filmreroll.com/?feed=rss2&#038;p=5</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<category><![CDATA[Episode]]></category>
+		<description>In the Film Reroll’s first ever episode, we play through Back to the Future 2. It all goes horribly, horribly wrong. Pitr Strait – Marty McFly Jon Miller – Doc Brown Jocelyn Vammer – Jennifer Paulo Quiros – DM</description>
+		<content:encoded><![CDATA[<p>In the Film Reroll&#8217;s first ever episode, we play through Back to the Future 2. It all goes horribly, horribly wrong.</p>
+<p>Pitr Strait &#8211; Marty McFly</p>
+<p>Jon Miller &#8211; Doc Brown</p>
+<p>Jocelyn Vammer &#8211; Jennifer</p>
+<p>Paulo Quiros &#8211; DM</p>
+]]></content:encoded>
+		<enclosure url="http://feeds.soundcloud.com/stream/235981832-pauloquiros-film-reroll-ep-1-back-to-the-future-2.mp3" length="107923887" type="audio/mpeg" />
+		<itunes:subtitle>In the Film Reroll’s first ever episode, we play through Back to the Future 2. It all goes horribly, horribly wrong. Pitr Strait – Marty McFly Jon Miller – Doc Brown Jocelyn Vammer – Jennifer Paulo Quiros – DM</itunes:subtitle>
+		<itunes:summary>In the Film Reroll’s first ever episode, we play through Back to the Future 2. It all goes horribly, horribly wrong. Pitr Strait – Marty McFly Jon Miller – Doc Brown Jocelyn Vammer – Jennifer Paulo Quiros – DM</itunes:summary>
+		<itunes:author>Reroll Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:51:54</itunes:duration>
+		</item>
+</channel>
+</rss>

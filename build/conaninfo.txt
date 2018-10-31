@@ -1,0 +1,41 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=8
+    os=Linux
+
+[requires]
+    libxml2/2.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=8
+    os=Linux
+    os_build=Linux
+
+[full_requires]
+    libiconv/1.15@bincrafters/stable:1d877a3df840030e6a8abb74c5ffb9088d08b47a
+    libxml2/2.9.8@bincrafters/stable:e418e02bcdedf06b5d2562cf63d914f5bdee721c
+    zlib/1.2.11@conan/stable:ec336a8e46e06995be9ad34dc1a7477dff42a7df
+
+[full_options]
+    libiconv:fPIC=True
+    libiconv:shared=False
+    libxml2:fPIC=True
+    libxml2:shared=False
+    zlib:shared=False
+
+[recipe_hash]
+
+
+[env]
+
