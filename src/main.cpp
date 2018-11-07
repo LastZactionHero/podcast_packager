@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <libxml/parser.h>
 #include <libxml/tree.h>
+#include <vector>
 
-void main() {
+int main() {
   printf("Hello world!\n");
+  return 0;
 }

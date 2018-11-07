@@ -1,5 +1,6 @@
 [requires]
 libxml2/2.9.8@bincrafters/stable
+gtest/1.8.1@bincrafters/stable
 
 [generators]
 cmake

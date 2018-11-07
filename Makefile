@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
-	/usr/local/Cellar/cmake/3.10.2/bin/ccmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/usr/local/Cellar/cmake/3.12.3/bin/ccmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named Test
+
+# Build rule for target.
+Test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Test
+.PHONY : Test
+
+# fast build rule for target.
+Test/fast:
+	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/build
+.PHONY : Test/fast
+
+#=============================================================================
 # Target rules for targets named FeedParser
 
 # Build rule for target.
@@ -123,32 +136,59 @@ FeedParser/fast:
 	$(MAKE) -f CMakeFiles/FeedParser.dir/build.make CMakeFiles/FeedParser.dir/build
 .PHONY : FeedParser/fast
 
-src/feed_parser.o: src/feed_parser.c.o
+src/main.o: src/main.cpp.o
 
-.PHONY : src/feed_parser.o
+.PHONY : src/main.o
 
 # target to build an object file
-src/feed_parser.c.o:
-	$(MAKE) -f CMakeFiles/FeedParser.dir/build.make CMakeFiles/FeedParser.dir/src/feed_parser.c.o
-.PHONY : src/feed_parser.c.o
+src/main.cpp.o:
+	$(MAKE) -f CMakeFiles/FeedParser.dir/build.make CMakeFiles/FeedParser.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-src/feed_parser.i: src/feed_parser.c.i
+src/main.i: src/main.cpp.i
 
-.PHONY : src/feed_parser.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-src/feed_parser.c.i:
-	$(MAKE) -f CMakeFiles/FeedParser.dir/build.make CMakeFiles/FeedParser.dir/src/feed_parser.c.i
-.PHONY : src/feed_parser.c.i
+src/main.cpp.i:
+	$(MAKE) -f CMakeFiles/FeedParser.dir/build.make CMakeFiles/FeedParser.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-src/feed_parser.s: src/feed_parser.c.s
+src/main.s: src/main.cpp.s
 
-.PHONY : src/feed_parser.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-src/feed_parser.c.s:
-	$(MAKE) -f CMakeFiles/FeedParser.dir/build.make CMakeFiles/FeedParser.dir/src/feed_parser.c.s
-.PHONY : src/feed_parser.c.s
+src/main.cpp.s:
+	$(MAKE) -f CMakeFiles/FeedParser.dir/build.make CMakeFiles/FeedParser.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
+
+src/test/main.o: src/test/main.cpp.o
+
+.PHONY : src/test/main.o
+
+# target to build an object file
+src/test/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/src/test/main.cpp.o
+.PHONY : src/test/main.cpp.o
+
+src/test/main.i: src/test/main.cpp.i
+
+.PHONY : src/test/main.i
+
+# target to preprocess a source file
+src/test/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/src/test/main.cpp.i
+.PHONY : src/test/main.cpp.i
+
+src/test/main.s: src/test/main.cpp.s
+
+.PHONY : src/test/main.s
+
+# target to generate assembly for a file
+src/test/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/src/test/main.cpp.s
+.PHONY : src/test/main.cpp.s
 
 # Help Target
 help:
@@ -158,10 +198,14 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... Test"
 	@echo "... FeedParser"
-	@echo "... src/feed_parser.o"
-	@echo "... src/feed_parser.i"
-	@echo "... src/feed_parser.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/test/main.o"
+	@echo "... src/test/main.i"
+	@echo "... src/test/main.s"
 .PHONY : help
 
 
