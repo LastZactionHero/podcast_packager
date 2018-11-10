@@ -1,7 +1,6 @@
 #include "./feed_parser.h"
 #include <libxml/parser.h>
 #include <libxml/tree.h>
-#include <libxml/xpath.h>
 #include <libxml/xpathInternals.h>
 #include <iostream>
 
@@ -33,11 +32,50 @@ std::string FeedParser::title() {
   return nodeContent(titleNode);
 }
 
-void FeedParser::episodes() {
+void FeedParser::episodes(std::vector<Episode> *episodes) {
+  if (doc == NULL) {
+    return;
+  }
 
+  // Find list of episodes (item tag)
+  xmlNodeSetPtr nodeSet = findNodesetByXpath(
+    doc,
+    reinterpret_cast<const xmlChar*>("//item"));
+
+  // Parse each episode
+  for (int i = 0; i < nodeSet->nodeNr; ++i) {
+    xmlNodePtr node = nodeSet->nodeTab[i];
+
+    xmlNodePtr child = node->children;
+
+    xmlNode *titleNode = findChildNode(node, "title");
+    std::string title = nodeContent(titleNode);
+
+    xmlNode *pubDateNode = findChildNode(node, "pubDate");
+    std::string pubDate = nodeContent(pubDateNode);
+
+    xmlNode *enclosureNode = findChildNode(node, "enclosure");
+    std::string url = nodeProperty(enclosureNode, "url");
+
+    episodes->emplace_back(title, pubDate, url);
+  }
 }
 
-xmlNode* FeedParser::findNodeByXpath(xmlDocPtr doc, const xmlChar *xpath) {
+xmlNode* FeedParser::findChildNode(xmlNode *node, std::string name) {
+  xmlNodePtr child = node->children;
+  while (child) {
+    if (strcmp(name.c_str(), reinterpret_cast<const char*>(child->name)) == 0) {
+      return child;
+    }
+
+    child = child->next;
+  }
+  return NULL;
+}
+
+xmlNodeSetPtr FeedParser::findNodesetByXpath(
+  xmlDocPtr doc,
+  const xmlChar *xpath) {
   xmlXPathContextPtr xpathCtx = xmlXPathNewContext(doc);
   xmlXPathObjectPtr xpathObj = xmlXPathEvalExpression(xpath, xpathCtx);
 
@@ -46,12 +84,18 @@ xmlNode* FeedParser::findNodeByXpath(xmlDocPtr doc, const xmlChar *xpath) {
     return NULL;
   }
 
-  if (xpathObj->nodesetval->nodeNr == 0) {
+  return xpathObj->nodesetval;
+}
+
+xmlNode* FeedParser::findNodeByXpath(xmlDocPtr doc, const xmlChar *xpath) {
+  xmlNodeSetPtr nodeSet = findNodesetByXpath(doc, xpath);
+
+  if (nodeSet->nodeNr == 0) {
     std::cout << "Node not found\n";
     return NULL;
   }
 
-  return xpathObj->nodesetval->nodeTab[0];
+  return nodeSet->nodeTab[0];
 }
 
 std::string FeedParser::nodeContent(xmlNode *node) {
@@ -64,4 +108,18 @@ std::string FeedParser::nodeContent(xmlNode *node) {
   }
 
   return title;
+}
+
+std::string FeedParser::nodeProperty(xmlNode *node, std::string propertyName) {
+  _xmlAttr *attribute = node->properties;
+
+  while (attribute) {
+    if (strcmp(propertyName.c_str(),
+        reinterpret_cast<const char*>(attribute->name)) == 0) {
+      return nodeContent(attribute->children);
+    }
+    attribute = attribute->next;
+  }
+
+  return "";
 }
