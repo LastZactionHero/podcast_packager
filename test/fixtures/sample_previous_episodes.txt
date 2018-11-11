@@ -1,0 +1,2 @@
+http://www.podcast.com/episode_1.mp3
+http://www.podcast.com/episode_2.mp3

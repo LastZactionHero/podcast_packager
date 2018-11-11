@@ -7,6 +7,7 @@ struct Episode {
   std::string title;
   std::string pubDate;
   std::string url;
+  bool downloaded;
 
   explicit Episode(
     const std::string title,
@@ -14,7 +15,8 @@ struct Episode {
     const std::string url) :
       title(title),
       pubDate(pubDate),
-      url(url)
+      url(url),
+      downloaded(false)
   {}
 };
 
