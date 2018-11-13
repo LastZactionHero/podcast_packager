@@ -1,10 +1,11 @@
 #include <gtest/gtest.h>
+#include "./constants.h"
 #include "../src/file_download_service.h"
 #include <fstream>
 #include <string>
 
 TEST(FileDownloadService, Download) {
-  std::string url = "http://localhost:9494/sample_feed.xml";
+  std::string url = std::string(TEST_SERVER_HOST) + "sample_feed.xml";
   std::string filename = "./test/fixtures/out.xml";
 
   FileDownloadService fds = FileDownloadService(url, filename);
@@ -19,7 +20,7 @@ TEST(FileDownloadService, Download) {
 }
 
 TEST(FileDownloadService, DownloadError) {
-  std::string url = "http://localhost:9494/not_a_real_file";
+  std::string url = std::string(TEST_SERVER_HOST) + "not_a_real_file";
   std::string filename = "./test/fixtures/out.xml";
 
   FileDownloadService fds = FileDownloadService(url, filename);

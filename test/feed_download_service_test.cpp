@@ -1,11 +1,11 @@
 #include <gtest/gtest.h>
-
+#include "./constants.h"
 #include "../src/feed_download_service.h"
 #include "../src/feed.h"
 
 namespace {
   TEST(FeedDownloadService, Download) {
-    std::string url = "http://localhost:9494/sample_feed.xml";
+    std::string url = std::string(TEST_SERVER_HOST) + "sample_feed.xml";
 
     Feed feed(url);
     EXPECT_EQ(feed.episodes.size(), 0);  // Assumption: No episodes
