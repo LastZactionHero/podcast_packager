@@ -8,3 +8,4 @@ conanbuildinfo.txt
 conaninfo.txt
 Makefile
 settings.json
+*.mp3
