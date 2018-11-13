@@ -8,7 +8,7 @@
 class FeedListService {
  public:
   explicit FeedListService(const std::string &filename);
-  const std::vector<Feed>& feeds();
+  std::vector<Feed> *feeds();
 
  private:
   std::vector<Feed> feedsList;

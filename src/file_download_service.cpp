@@ -27,6 +27,7 @@ bool FileDownloadService::download() {
     curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
     code = curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, writer);
     code = curl_easy_setopt(curl, CURLOPT_WRITEDATA, &buffer);
+    code = curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
 
     if (code != CURLE_OK) {
       std::cout << "Failed to set writer " << std::endl;

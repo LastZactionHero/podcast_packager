@@ -6,8 +6,8 @@ FeedListService::FeedListService(const std::string &filename) {
   readFeeds(filename);
 }
 
-const std::vector<Feed>& FeedListService::feeds() {
-  return feedsList;
+std::vector<Feed> *FeedListService::feeds() {
+  return &feedsList;
 }
 
 void FeedListService::readFeeds(const std::string &filename) {
