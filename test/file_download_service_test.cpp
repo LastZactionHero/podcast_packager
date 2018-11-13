@@ -34,5 +34,5 @@ TEST(FileDownloadService, DownloadError) {
   // getline(infile, line);
   // EXPECT_EQ(line, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
 
-  // remove(filename.c_str());
+  remove(filename.c_str());
 }
