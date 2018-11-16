@@ -1,6 +1,5 @@
 #!/bin/bash
-files=$(shopt -s nullglob dotglob; echo /home/pi/podcast_packager/downloads/*)
-if (( ${#files} ))
+if [ -n "$(ls -A /home/pi/podcast_packager/downloads 2>/dev/null)" ]
 then
   echo "0" > /sys/class/gpio/gpio4/value
 else
