@@ -1,9 +1,8 @@
-#include <stdio.h>
-#include <libxml/parser.h>
-#include <libxml/tree.h>
-#include <vector>
+#include "./updater.h"
 
 int main() {
-  printf("Hello world!\n");
+  Updater updater = Updater();
+  updater.update();
+
   return 0;
 }
