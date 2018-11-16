@@ -1,3 +1,4 @@
+#!/bin/bash
 files=$(shopt -s nullglob dotglob; echo /home/pi/podcast_packager/downloads/*)
 if (( ${#files} ))
 then
