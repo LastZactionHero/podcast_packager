@@ -3,6 +3,7 @@
 #include <libxml/tree.h>
 #include <libxml/xpathInternals.h>
 #include <iostream>
+#include <string.h>
 
 FeedParser::FeedParser(const std::string &filename) : filename(filename) {
   xmlInitParser();
