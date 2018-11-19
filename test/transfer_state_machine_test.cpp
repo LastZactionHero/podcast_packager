@@ -53,7 +53,8 @@ namespace {
     // Initializes to IDLE, UNMOUNTED, NO_FILES
     EXPECT_EQ(tsm.getState(), TransferStateMachine::State::IDLE);
     EXPECT_EQ(tsm.getStateFiles(), TransferStateMachine::StateFiles::NO_FILES);
-    EXPECT_EQ(tsm.getStateMassStorage(), TransferStateMachine::StateMassStorage::UNMOUNTED);
+    EXPECT_EQ(tsm.getStateMassStorage(),
+      TransferStateMachine::StateMassStorage::UNMOUNTED);
 
     // Files detected updates state
     dds.dummyFilesReady(true);
@@ -63,9 +64,11 @@ namespace {
 
     // Mass storage mount updates state
     dmsm.dummyMassStorageMounted(true);
-    EXPECT_EQ(tsm.getStateMassStorage(), TransferStateMachine::StateMassStorage::MOUNTED);
+    EXPECT_EQ(tsm.getStateMassStorage(),
+      TransferStateMachine::StateMassStorage::MOUNTED);
     dmsm.dummyMassStorageMounted(false);
-    EXPECT_EQ(tsm.getStateMassStorage(), TransferStateMachine::StateMassStorage::UNMOUNTED);
+    EXPECT_EQ(tsm.getStateMassStorage(),
+      TransferStateMachine::StateMassStorage::UNMOUNTED);
 
     // Files detected + Mass storage mount triggers transfer
     EXPECT_EQ(tsm.getState(), TransferStateMachine::State::IDLE);  // Assumption
@@ -76,5 +79,10 @@ namespace {
     // Finishing the copy process triggers return to idle
     dmsm.dummyCopyCallback();
     EXPECT_EQ(tsm.getState(), TransferStateMachine::State::IDLE);
+  }
+
+  TEST(TransferStateMachine, TransitionCallback) {
+     // TODO: A callback can be assigned and triggered on any state updates
+     // For use with Indicator
   }
 }
