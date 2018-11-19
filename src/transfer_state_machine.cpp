@@ -36,16 +36,19 @@ TransferStateMachine::StateFiles
 void TransferStateMachine::filesChanged(bool hasFiles) {
   stateFiles = hasFiles ? HAS_FILES : NO_FILES;
   startTransferIfReady();
+  postUpdate();
 }
 
 void TransferStateMachine::massStorageMounted(bool mounted) {
   stateMassStorage = mounted ? MOUNTED : UNMOUNTED;
   startTransferIfReady();
+  postUpdate();
 }
 
 void TransferStateMachine::transferComplete() {
   if (TRANSFERRING == state) {
     state = IDLE;
+    postUpdate();
   }
 }
 
@@ -54,8 +57,18 @@ void TransferStateMachine::startTransferIfReady() {
       && MOUNTED == stateMassStorage
       && HAS_FILES == stateFiles) {
     state = TRANSFERRING;
-
     massStorageManager->copyFiles(
       std::bind(&TransferStateMachine::transferComplete, this));
+  }
+}
+
+void TransferStateMachine::setUpdateCallback(
+  std::function<void(void)> callback) {
+  updateCallback = callback;
+}
+
+void TransferStateMachine::postUpdate() {
+  if (updateCallback) {
+    updateCallback();
   }
 }

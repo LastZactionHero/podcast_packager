@@ -3,6 +3,7 @@
 
 #include "./mass_storage_manager.h"
 #include "./directory_status.h"
+#include <functional>
 
 class TransferStateMachine {
  public:
@@ -29,18 +30,22 @@ class TransferStateMachine {
   StateMassStorage getStateMassStorage();
   StateFiles getStateFiles();
 
+  void setUpdateCallback(std::function<void(void)> callback);
+
  private:
   void startTransferIfReady();
   void transferComplete();
   void filesChanged(bool hasFiles);
   void massStorageMounted(bool mounted);
+  void postUpdate();
 
   DirectoryStatus *directoryStatus;
   MassStorageManager *massStorageManager;
   State state;
   StateFiles stateFiles;
   StateMassStorage stateMassStorage;
-  bool running;
+
+  std::function<void(void)> updateCallback;
 };
 
 #endif  // SRC_TRANSFER_STATE_MACHINE_H_

@@ -42,6 +42,7 @@ class DummyDirectoryStatus : public DirectoryStatus {
 };
 
 namespace {
+  // Test transitions correctly in response to events
   TEST(TransferStateMachine, Tranisition) {
     DummyDirectoryStatus dds = DummyDirectoryStatus();
     DummyMassStorageManager dmsm = DummyMassStorageManager();
@@ -81,8 +82,30 @@ namespace {
     EXPECT_EQ(tsm.getState(), TransferStateMachine::State::IDLE);
   }
 
+  // Test update callback is called on transitions
   TEST(TransferStateMachine, TransitionCallback) {
-     // TODO: A callback can be assigned and triggered on any state updates
-     // For use with Indicator
+    DummyDirectoryStatus dds = DummyDirectoryStatus();
+    DummyMassStorageManager dmsm = DummyMassStorageManager();
+
+    static int callbackCount = 0;
+    auto updateCallback = []() {
+      ++callbackCount;
+      return;
+    };
+
+    TransferStateMachine tsm = TransferStateMachine(&dds, &dmsm);
+    tsm.setUpdateCallback(updateCallback);
+
+    // Triggers on mass storage mount
+    dmsm.dummyMassStorageMounted(true);
+    EXPECT_EQ(callbackCount, 1);
+
+    // Triggers on mass storage mount
+    dds.dummyFilesReady(true);
+    EXPECT_EQ(callbackCount, 2);
+
+    // Triggers on transfer complete
+    dmsm.dummyCopyCallback();
+    EXPECT_EQ(callbackCount, 3);
   }
 }
