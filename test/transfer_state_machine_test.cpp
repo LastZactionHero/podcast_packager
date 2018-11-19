@@ -33,7 +33,9 @@ class DummyMassStorageManager : public MassStorageManager {
 
 class DummyDirectoryStatus : public DirectoryStatus {
  public:
-  DummyDirectoryStatus() {}
+  DummyDirectoryStatus() : DirectoryStatus("") {
+  }
+
   void dummyFilesReady(bool ready) {
     if (filesReadyCallback) {
       filesReadyCallback(ready);
