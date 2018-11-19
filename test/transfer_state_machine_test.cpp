@@ -26,9 +26,6 @@ class DummyMassStorageManager : public MassStorageManager {
   }
 
   bool unmounted;
-
- private:
-  std::function<void(void)> copyCallback;
 };
 
 class DummyDirectoryStatus : public DirectoryStatus {

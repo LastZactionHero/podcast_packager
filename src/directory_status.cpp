@@ -20,6 +20,7 @@ void DirectoryStatus::poll() {
     return;
   }
 
+  std::cout << "hasFiles: " << hasFiles << std::endl;
   lastHasFiles = hasFiles;
   filesReadyCallback(hasFiles);
 }

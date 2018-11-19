@@ -11,7 +11,7 @@ class MassStorageManager {
 
  protected:
   std::function<void(bool)> mountedCallback;
-
+  std::function<void(void)> copyCallback;
 };
 
 #endif  // SRC_MASS_STORAGE_MANAGER_H_
