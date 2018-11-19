@@ -1,6 +1,7 @@
 bin/FeedParser
 bin/Test
 bin/PodcastPackager
+bin/Transfer
 CMakeFiles/
 cmake_install.cmake
 CMakeCache.txt
