@@ -1,6 +1,7 @@
 #include "./updater.h"
 
 #include <iostream>
+#include <regex>
 #include <vector>
 #include "./feed_list_service.h"
 #include "./feed_download_service.h"
@@ -31,9 +32,13 @@ void Updater::update() {
        ++itr) {
     std::cout << itr->url << std::endl;
 
+    std::string fileTitle = itr->title;
+    std::regex regex("[^A-z0-9_]+");
+    std::regex_replace(fileTitle, regex, "_");
+
     FileDownloadService fds = FileDownloadService(
       itr->url,
-      "./downloads/" + itr->title + ".mp3");
+      "./downloads/" + fileTitle + ".mp3");
     fds.download();
 
     PreviousEpisodeService pes =
