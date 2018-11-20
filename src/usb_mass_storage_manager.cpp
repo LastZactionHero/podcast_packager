@@ -55,12 +55,13 @@ bool UsbMassStorageManager::deviceAvailable() {
 }
 
 void UsbMassStorageManager::mount() {
-  if(!readyToRemount) {
+  if (!readyToRemount) {
     return;
   }
 
   std::cout << "mounting" << std::endl;
   system(CMD_MOUNT);
+  readyToRemount = false;
 
   if (mountedCallback) {
     mountedCallback(true);
