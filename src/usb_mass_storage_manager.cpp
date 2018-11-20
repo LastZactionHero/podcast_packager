@@ -21,7 +21,7 @@ void UsbMassStorageManager::poll() {
   } else if (!readyToRemount) {
     std::cout << "Device removed, ready to remount" << std::endl;
     readyToRemount = true;
-  } else if (!mounted) {
+  } else if (mounted) {
     unmount();
   }
 
