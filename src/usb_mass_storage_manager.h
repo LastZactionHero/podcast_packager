@@ -14,7 +14,8 @@ class UsbMassStorageManager : public MassStorageManager {
   bool deviceAvailable();
   void mount();
 
-  bool mounted;
+  bool readyToRemount;
+
 };
 
 #endif  // SRC_USB_MASS_STORAGE_MANAGER_H

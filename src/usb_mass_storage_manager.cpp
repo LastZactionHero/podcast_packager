@@ -11,11 +11,14 @@
 #define CMD_COPY_FILES "mv ./downloads/*.mp3 " MOUNT_PATH "podcasts"
 
 UsbMassStorageManager::UsbMassStorageManager() :
-  mounted(false) {}
+  readyToRemount(true) {}
 
 void UsbMassStorageManager::poll() {
   if (deviceAvailable()) {
     mount();
+  } else {
+    std::cout << "Device removed, ready to remount" << std::endl;
+    readyToRemount = true;
   }
 }
 
@@ -52,6 +55,10 @@ bool UsbMassStorageManager::deviceAvailable() {
 }
 
 void UsbMassStorageManager::mount() {
+  if(!readyToRemount) {
+    return;
+  }
+
   std::cout << "mounting" << std::endl;
   system(CMD_MOUNT);
 

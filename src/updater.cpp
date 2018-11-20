@@ -34,7 +34,7 @@ void Updater::update() {
 
     std::string fileTitle = itr->title;
     std::regex regex("[^A-z0-9_]+");
-    std::regex_replace(fileTitle, regex, "_");
+    fileTitle = std::regex_replace(fileTitle, regex, "_");
 
     FileDownloadService fds = FileDownloadService(
       itr->url,
