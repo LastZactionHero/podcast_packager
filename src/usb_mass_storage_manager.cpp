@@ -8,7 +8,7 @@
 #define CMD_DEVICE_AVAILABLE "ls -la /dev | grep " DEVICE_ID
 #define CMD_MOUNT "mount -t vfat -o rw /dev/" DEVICE_ID " " MOUNT_PATH
 #define CMD_UNMOUNT "umount " MOUNT_PATH
-#define CMD_COPY_FILES "mv ./downloads/*.mp3 " MOUNT_PATH "podcasts/"
+#define CMD_COPY_FILES "mv ./downloads/*.mp3 " MOUNT_PATH "podcasts"
 
 UsbMassStorageManager::UsbMassStorageManager() :
   mounted(false) {}
@@ -21,7 +21,7 @@ void UsbMassStorageManager::poll() {
 
 void UsbMassStorageManager::unmount() {
   std::cout << "unmounting" << std::endl;
-  popen(CMD_UNMOUNT, "r");
+  system(CMD_UNMOUNT);
   if (mountedCallback) {
     mountedCallback(false);
   }
@@ -29,7 +29,8 @@ void UsbMassStorageManager::unmount() {
 
 void UsbMassStorageManager::copyFiles(std::function<void(void)> callback) {
   std::cout << "copying" << std::endl;
-  popen(CMD_COPY_FILES, "r");
+  std::cout << CMD_COPY_FILES << std::endl;
+  system(CMD_COPY_FILES);
   copyCallback = callback;
 }
 
@@ -52,7 +53,7 @@ bool UsbMassStorageManager::deviceAvailable() {
 
 void UsbMassStorageManager::mount() {
   std::cout << "mounting" << std::endl;
-  popen(CMD_MOUNT, "r");
+  system(CMD_MOUNT);
 
   if (mountedCallback) {
     mountedCallback(true);

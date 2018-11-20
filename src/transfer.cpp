@@ -16,7 +16,6 @@ int main() {
   TransferStateMachine tsm = TransferStateMachine(&ds, &msm);
 
   while (true) {
-    std::cout << "Polling..." << std::endl;
     msm.poll();
     ds.poll();
 

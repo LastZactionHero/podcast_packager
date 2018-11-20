@@ -59,6 +59,7 @@ void TransferStateMachine::startTransferIfReady() {
     state = TRANSFERRING;
     massStorageManager->copyFiles(
       std::bind(&TransferStateMachine::transferComplete, this));
+    massStorageManager->unmount();
   }
 }
 
