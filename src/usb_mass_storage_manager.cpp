@@ -3,6 +3,7 @@
 #include <iostream>
 
 #define MAX_CMD_BUFFER 64
+// TODO: Handle sdb
 #define DEVICE_ID "sda2"
 #define MOUNT_PATH "/media/usbstick/"
 #define CMD_DEVICE_AVAILABLE "ls -la /dev | grep " DEVICE_ID
@@ -11,7 +12,8 @@
 #define CMD_COPY_FILES "mv ./downloads/*.mp3 " MOUNT_PATH "podcasts"
 
 UsbMassStorageManager::UsbMassStorageManager() :
-  readyToRemount(true) {}
+  readyToRemount(true),
+  mounted(false) {}
 
 void UsbMassStorageManager::poll() {
   if (deviceAvailable()) {
@@ -19,12 +21,18 @@ void UsbMassStorageManager::poll() {
   } else if (!readyToRemount) {
     std::cout << "Device removed, ready to remount" << std::endl;
     readyToRemount = true;
+  } else if (!mounted) {
+    unmount();
   }
+
+  // TODO: Unmount if removed
 }
 
 void UsbMassStorageManager::unmount() {
   std::cout << "unmounting" << std::endl;
   system(CMD_UNMOUNT);
+  mounted = false;
+
   if (mountedCallback) {
     mountedCallback(false);
   }
@@ -62,6 +70,7 @@ void UsbMassStorageManager::mount() {
   std::cout << "mounting" << std::endl;
   system(CMD_MOUNT);
   readyToRemount = false;
+  mounted = true;
 
   if (mountedCallback) {
     mountedCallback(true);
