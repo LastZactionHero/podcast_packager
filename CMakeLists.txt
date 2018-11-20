@@ -13,7 +13,7 @@ list(REMOVE_ITEM SourcesCpp ${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp)
 
 set(PodcastPackagerCpp ${SourcesCpp})
 list(APPEND PodcastPackagerCpp ${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp)
-add_executable(PodcastPackager ${SourcesCpp})
+add_executable(PodcastPackager ${PodcastPackagerCpp})
 
 set(TransferSourcesCpp ${SourcesCpp})
 list(APPEND TransferSourcesCpp ${CMAKE_CURRENT_SOURCE_DIR}/src/transfer.cpp)
